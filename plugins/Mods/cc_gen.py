@@ -3,7 +3,7 @@ from pyrogram import Client, filters
 import requests
 from info import LOG_CHANNEL
 
-@Client.on_message(filters.command("gen"))
+@Client.on_message(filters.command("cc"))
 async def google_text(client, message):
     try:
         user_query = message.text.split()[1:]

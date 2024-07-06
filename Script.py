@@ -3,18 +3,18 @@ class script(object):
 
 ɪ ᴀᴍ ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ, ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴇɴᴊᴏʏ
 
-‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/codeflix_bots'>мɪкєʏ</a></b>
+‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/kissuXbots'>𓆩•𝐊𝐢𝐬𝐬𝐮 💞•𓆪</a></b>
 """
 
     HELP_TXT = """<b>ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴇsᴄʀɪᴘᴛɪᴏɴ ᴀʙᴏᴜᴛ sᴘᴇᴄɪғɪᴄs ᴄᴏᴍᴍᴀɴᴅ!</b>"""
  
     ABOUT_TXT = """
-<b>❍ ᴍʏ ɴᴀᴍᴇ : <a href="https://t.me/Lucy_Filter_bot">ʟᴜᴄʏ ʙᴏᴛ</a>
-❍ ᴄʀᴇᴀᴛᴏʀ : <a href="https://t.me/veldxd">мɪкєʏ</a>
+<b>❍ ᴍʏ ɴᴀᴍᴇ : <a href="https://t.me/kissu_movies_bot">𝐃𝐄𝐕𝐈𝐋 𝐌𝐎𝐕𝐈𝐄𝐒 𝟐.𝐎</a>
+❍ ᴄʀᴇᴀᴛᴏʀ : <a href="https://t.me/xaekks">𓆩•𝐊𝐢𝐬𝐬𝐮 💞•𓆪</a>
 ❍ ʟɪʙʀᴀʀʏ : <a href="https://pyrogram.org/">ᴘʏʀᴏɢʀᴀᴍ</a>
 ❍ ʟᴀɴɢᴜᴀɢᴇ : <a href="https://www.python.org/">ᴘʏᴛʜᴏɴ</a>
 ❍ ᴅᴀᴛᴀʙᴀꜱᴇ : <a href="https://www.mongodb.com/">ᴍᴏɴɢᴏ ᴅʙ</a>
-❍ ʜᴏꜱᴛᴇᴅ ᴏɴ : <a href="https://t.me/codeflix_bots">ᴠᴘs</a>
+❍ ʜᴏꜱᴛᴇᴅ ᴏɴ : <a href="https://t.me/kissuXbots">ᴠᴘs</a>
 ❍ ʙᴜɪʟᴅ ꜱᴛᴀᴛᴜꜱ : ᴠ4.3.1 [ᴀᴅᴠᴀɴᴄᴇ ғᴇᴀᴛᴜʀᴇs]
 
 ➲  ɪ ᴄᴀɴ ʀᴇꜱᴛʀɪᴄᴛ ᴜꜱᴇʀꜱ.
@@ -29,7 +29,7 @@ class script(object):
 
 ᴀʟʟ ᴛʜᴇ ꜰɪʟᴇꜱ ɪɴ ᴛʜɪꜱ ʙᴏᴛ ᴀʀᴇ ꜰʀᴇᴇʟʏ ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛʜᴇ ɪɴᴛᴇʀɴᴇᴛ ᴏʀ ᴘᴏꜱᴛᴇᴅ ʙʏ ꜱᴏᴍᴇʙᴏᴅʏ ᴇʟꜱᴇ. ᴊᴜꜱᴛ ꜰᴏʀ ᴇᴀꜱʏ ꜱᴇᴀʀᴄʜɪɴɢ ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɪɴᴅᴇxɪɴɢ ꜰɪʟᴇꜱ ᴡʜɪᴄʜ ᴀʀᴇ ᴀʟʀᴇᴀᴅʏ ᴜᴘʟᴏᴀᴅᴇᴅ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ. ᴡᴇ ʀᴇꜱᴘᴇᴄᴛ ᴀʟʟ ᴛʜᴇ ᴄᴏᴘʏʀɪɢʜᴛ ʟᴀᴡꜱ ᴀɴᴅ ᴡᴏʀᴋꜱ ɪɴ ᴄᴏᴍᴘʟɪᴀɴᴄᴇ ᴡɪᴛʜ ᴅᴍᴄᴀ ᴀɴᴅ ᴇᴜᴄᴅ. ɪꜰ ᴀɴʏᴛʜɪɴɢ ɪꜱ ᴀɢᴀɪɴꜱᴛ ʟᴀᴡ ᴘʟᴇᴀꜱᴇ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ꜱᴏ ᴛʜᴀᴛ ɪᴛ ᴄᴀɴ ʙᴇ ʀᴇᴍᴏᴠᴇᴅ ᴀꜱᴀᴘ. ɪᴛ ɪꜱ ꜰᴏʀʙɪᴅᴅᴇɴ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ, ꜱᴛʀᴇᴀᴍ, ʀᴇᴘʀᴏᴅᴜᴄᴇ, ꜱʜᴀʀᴇ ᴏʀ ᴄᴏɴꜱᴜᴍᴇ ᴄᴏɴᴛᴇɴᴛ ᴡɪᴛʜᴏᴜᴛ ᴇxᴘʟɪᴄɪᴛ ᴘᴇʀᴍɪꜱꜱɪᴏɴ ꜰʀᴏᴍ ᴛʜᴇ ᴄᴏɴᴛᴇɴᴛ ᴡɪᴛʜᴏᴜᴛ ᴇxᴘʟɪᴄɪᴛ ᴘᴇʀᴍɪꜱꜱɪᴏɴ ꜰʀᴏᴍ ᴛʜᴇ ᴄᴏɴᴛᴇɴᴛ ᴄʀᴇᴀᴛᴏʀ ᴏʀ ʟᴇɢᴀʟ ᴄᴏᴘʏʀɪɢʜᴛ ʜᴏʟᴅᴇʀ. ɪꜰ ʏᴏᴜ ʙᴇʟɪᴇᴠᴇ ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴠɪᴏʟᴀᴛɪɴɢ ʏᴏᴜʀ ɪɴᴛᴇʟʟᴇᴄᴛᴜᴀʟ ᴘʀᴏᴘᴇʀᴛʏ, ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ ʀᴇꜱᴘᴇᴄᴛɪᴠᴇ ᴄʜᴀɴɴᴇʟꜱ ꜰᴏʀ ʀᴇᴍᴏᴠᴀʟ. ᴛʜᴇ ʙᴏᴛ ᴅᴏᴇꜱ ɴᴏᴛ ᴏᴡɴ ᴀɴʏ ᴏꜰ ᴛʜᴇꜱᴇ ᴄᴏɴᴛᴇɴᴛꜱ, ɪᴛ ᴏɴʟʏ ɪɴᴅᴇx ᴛʜᴇ ꜰɪʟᴇꜱ ꜰʀᴏᴍ ᴛᴇʟᴇɢʀᴀᴍ.
 
-ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/codeflix_bots">мɪкєʏ</a></b>"""
+ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/xaekks">𓆩•𝐊𝐢𝐬𝐬𝐮 💞•𓆪</a></b>"""
 
     DONATE = """<b>💵 ɪ ʀᴇǫᴜᴇsᴛᴇᴅ ᴛᴏ ʏᴏᴜ 💸
 
@@ -39,13 +39,12 @@ class script(object):
 
 <b>᚜ ᴘᴀʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅs ᚛</b>
 
-➢ <a href='https://graph.org/file/02e7ecc3e2693b481b914.jpg'>ғᴀᴍᴘᴀʏ</a>
+➢ <a href='https://t.me/xaekks'>Dᴍ Tᴏ Gᴇᴛ QR Cᴏᴅᴇ</a>
 
 ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ғᴏʀ ᴋɴᴏᴡ ᴀʙᴏᴜᴛ ᴛʜᴇ ᴘᴀʏᴍᴇɴᴛ ɪɴғᴏ
 
-<b>ᴄʟɪᴄᴋ ʜᴇʀᴇ - <a href='https://telegram.me/veldxd'>ᴏᴡɴᴇʀ</a>
-ᴄʟɪᴄᴋ ʜᴇʀᴇ - <a href='https://telegram.me/sewxiy'>ᴍᴀɴᴀɢᴇʀ</a>
-ᴄʟɪᴄᴋ ʜᴇʀᴇ - <a href='https://telegram.me/mikey_0x'>ᴜᴘʟᴏᴀᴅᴇʀ</a></b>"""
+<b>ᴄʟɪᴄᴋ ʜᴇʀᴇ - <a href='https://telegram.me/xaekks'>ᴏᴡɴᴇʀ</a>
+ᴄʟɪᴄᴋ ʜᴇʀᴇ - <a href='https://telegram.me/kissuXowner'>ᴍᴀɴᴀɢᴇʀ</a>"""
 
     SHORTLINK_INFO = """<b>
  ❗<u>ʜᴏᴡ ᴛᴏ ᴇᴀʀɴ ᴍᴏɴᴇʏ ᴜꜱɪɴɢ ʙᴏᴛ</u>❗
@@ -79,7 +78,7 @@ class script(object):
 
 ›› ꜱᴛᴇᴘ 7 : ᴜꜱᴇ /set_tutorial ᴛᴏ ᴀᴅᴅ ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ᴠɪᴅᴇᴏ ꜰᴏʀ ʏᴏᴜʀ ꜱʜᴏʀᴛɴᴇʀ ᴡᴇʙꜱɪᴛᴇ.
 
-› ʟɪᴋᴇ ᴛʜɪꜱ :</b> <code>/set_tutorial https://t.me/How_to_Download_7x/35</code>
+› ʟɪᴋᴇ ᴛʜɪꜱ :</b> <code>/set_tutorial https://t.me/howtoverifybot/35</code>
 
 <b>›› ꜱᴛᴇᴘ 8 : ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴄʜᴇᴄᴋ ᴡʜɪᴄʜ sʜᴏʀᴛᴇɴᴇʀ ʏᴏᴜ ʜᴀᴠᴇ ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛʜᴇɴ sᴇɴᴅ /get_info ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ.
 
@@ -126,7 +125,7 @@ Hᴇʟᴘ : <b>Sᴇᴛᴛɪɴɢꜱ</b>
 
 <b>Nᴏᴛᴇ</b>: ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴛʜɪꜱ ᴍᴏᴅᴇ ᴛᴏ ᴄʜᴀɴɢᴇ ʏᴏᴜʀ ꜰᴏɴᴛꜱ ꜱᴛʏʟᴇ, ᴊᴜꜱᴛ ꜱᴇɴᴅ ᴍᴇ ʟɪᴋᴇ ᴛʜɪꜱ ꜰᴏʀᴍᴀᴛ. 
 
-<code>/font Team Netflix</code>"""
+<code>/font kissuXbots</code>"""
 
     MANUELFILTER_TXT = """Hᴇʟᴘ : <b>Fɪʟᴛᴇʀꜱ</b>
     
@@ -153,7 +152,7 @@ Hᴇʟᴘ : <b>Sᴇᴛᴛɪɴɢꜱ</b>
 𝟹. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 
 ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ :
-<code>[Button Text](buttonurl:https://t.me/team_netflix)</code>
+<code>[Button Text](buttonurl:https://t.me/kissuXbots)</code>
 
 ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ :
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
@@ -292,7 +291,7 @@ Hᴇʟᴘ : <b>Sᴇᴛᴛɪɴɢꜱ</b>
 Mᴏᴠɪᴇs Nᴏᴛ Aᴠᴀɪʟᴀʙʟᴇ Rᴇᴀsᴏɴ:
 𝟷. ᴏ.ᴛ.ᴛ ᴏʀ ᴅᴠᴅ ɴᴏᴛ ʀᴇʟᴇᴀsᴇᴅ
 𝟸. ᴛʏᴘᴇ ɴᴀᴍᴇ ᴡɪᴛʜ ʏᴇᴀʀ
-𝟹. ᴍᴏᴠɪᴇ ɪs ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴛʜᴇ ᴅᴀᴛᴀʙᴀsᴇ ʀᴇᴘᴏʀᴛ ᴛᴏ ᴀᴅᴍɪɴs @veldxd</b>"""
+𝟹. ᴍᴏᴠɪᴇ ɪs ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴛʜᴇ ᴅᴀᴛᴀʙᴀsᴇ ʀᴇᴘᴏʀᴛ ᴛᴏ ᴀᴅᴍɪɴs @xaekks</b>"""
 
     I_CUD_NT = """<b>ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏ ᴍᴏᴠɪᴇ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ {}.
 ᴘʟᴇᴀꜱᴇ ᴄʜᴇᴄᴋ ᴛʜᴇ ꜱᴘᴇʟʟɪɴɢ ᴏɴ ɢᴏᴏɢʟᴇ ᴏʀ ɪᴍᴅʙ...</b>"""
@@ -321,7 +320,7 @@ Mᴏᴠɪᴇs Nᴏᴛ Aᴠᴀɪʟᴀʙʟᴇ Rᴇᴀsᴏɴ:
 
 ☆ ᴄᴏɴᴛɪɴᴜᴇ ᴛʜɪs ᴍᴇᴛʜᴏᴅ ᴛᴏ ɢᴇᴛᴛɪɴɢ ʏᴏᴜ ꜰɪʟᴇ
 
- ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄᴏᴅᴇғʟɪx ʙᴏᴛs
+ ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓆩•𝐊𝐢𝐬𝐬𝐮 💞•𓆪 ʙᴏᴛs
 """
 
     NORSLTS = """
@@ -336,12 +335,12 @@ Mᴏᴠɪᴇs Nᴏᴛ Aᴠᴀɪʟᴀʙʟᴇ Rᴇᴀsᴏɴ:
     CAPTION = """ 
 <b>• {file_name}
 ╭──────────────────╮
-• <a href="https://t.me/anime_cruise_netflix">ᴀɴɪᴍᴇ ᴄʀᴜɪsᴇ</a>
-• <a href="https://t.me/+fAjYIpR5Ju02M2Q1">sᴇʀɪᴇs ғʟɪx</a>
-• <a href="https://t.me/+KeFIjHXhzLMyMWZl">ᴍᴏᴠɪᴇ ғʟɪx</a>
+• <a href="https://t.me/+1MxLxqoanIFlYzM9">sᴇʀɪᴇs Hᴜʙ</a>
+• <a href="https://t.me/+yQXmFinDqDhiMTJl">Mᴏᴠɪᴇs Hᴜʙ</a>
+• <a href="https://t.me/ur_movie_group">Uʀ Mᴏᴠɪᴇs Gʀᴏᴜᴘ</a>
 ╰──────────────────╯
 
-• ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href="https://t.me/codeflix_bots/161">ᴄᴏᴅᴇғʟɪx ʙᴏᴛs</a></b>"""
+• ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href="https://t.me/kissuXbots">𓆩•𝐊𝐢𝐬𝐬𝐮 💞•𓆪</a></b>"""
     
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
@@ -390,7 +389,7 @@ IMDb Data:
 
 ᴜsᴇ ᴛʜɪs ꜰᴏʀᴍᴀᴛ 👇</b> 
 
-<code>/ytthumb https://youtu.be/BqlMwyABHOE</code>"""
+<code>/ytthumb https://youtu.be/BqlyABHOE</code>"""
 
     GITHUB = """<b>ɢɪᴛʜᴜʙ ᴅᴇᴛᴀɪʟs -</b>
 
@@ -398,7 +397,7 @@ IMDb Data:
 
 ᴜsᴇ ᴛʜɪs ꜰᴏʀᴍᴀᴛ 👇
 
-❍ /github phoenix-erotixe
+❍ /github kissuXbots
 ❍ /git : to get github id information
 """
 
@@ -420,9 +419,9 @@ IMDb Data:
 
 ᴇxᴀᴍᴘʟᴇ :</b>
 
-<code>/mp4 https://youtu.be/BqlMwyABHOE</code>
+<code>/mp4 https://youtu.be/BqlyABHOE</code>
 
-<code>/video https://youtu.be/BqlMwyABHOE</code>"""
+<code>/video https://youtu.be/BqlMwyAB</code>"""
 
     REPORT = """<b>ʀᴇᴘᴏʀᴛ 🧑🏻‍✈️  
 
@@ -436,15 +435,15 @@ IMDb Data:
     MIKEY = """
 <b>ᴍɪᴋᴇʏ'ꜱ ʙɪᴏ 🙋‍♂
 
-╰─➩ ᴍʏ ɴᴀᴍᴇ - ᴍɪᴋᴇʏ (real name nhi btaunga)
-╰─➩ ᴜsᴇʀɴᴀᴍᴇ - <a href='https://t.me/sewxiy'>sᴇᴡxɪʏ</a>
-╰─➩ ᴘᴍ. ᴅᴍ ʟɪɴᴋ - <a href='https://t.me/sewxiy'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
-╰─➩ ᴅᴏʙ - 16 | 03 | 2006
+╰─➩ ᴍʏ ɴᴀᴍᴇ - 𓆩•𝐊𝐢𝐬𝐬𝐮 💞•𓆪 
+╰─➩ ᴜsᴇʀɴᴀᴍᴇ - <a href='https://t.me/xaekks'>𓆩•𝐊𝐢𝐬𝐬𝐮 💞•𓆪</a>
+╰─➩ ᴘᴍ. ᴅᴍ ʟɪɴᴋ - <a href='https://t.me/xaekks'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+╰─➩ ᴅᴏʙ - 05 | 01 | 2006
 ╰─➩ ʟᴇᴠᴇʟ - 12th 
-╰─➩ ᴀɢᴇ - ∞
-╰─➩ ʜᴏʙɪᴇꜱ - ᴍᴀɴɢᴀꜱ, ᴀɴɪᴍᴇs, ᴡᴇʙsᴇʀɪᴇs
-╰─➩ ᴘʟᴀᴄᴇ - ɪɴᴅɪᴀ, ᴅᴇʟʜɪ
-╰─➩ ᴋɴᴏᴡɴ ʟᴀɴɢᴜᴀɢᴇꜱ - ᴇɴɢʟɪꜱʜ, ʜɪɴᴅɪ, ᴊᴀᴘᴀɴɪ</b>"""
+╰─➩ ᴀɢᴇ - ∞ (mai nhi btaunga)
+╰─➩ ʜᴏʙɪᴇꜱ - ᴘʟᴀʏɪɴɢ ᴄʜᴇss, ᴡᴀᴛᴄʜɪɴɢ Nᴇᴛғʟɪx
+╰─➩ ᴘʟᴀᴄᴇ - ᴘᴀᴛɴᴀ,ʙɪʜᴀʀ,Iɴᴅɪᴀ
+╰─➩ ᴋɴᴏᴡɴ ʟᴀɴɢᴜᴀɢᴇꜱ - ᴇɴɢʟɪꜱʜ, ʜɪɴᴅɪ, ʙʜᴏjᴘᴜʀɪ</b>"""
 
     GEN_PASS = """<b>ᴘᴀssᴡᴏʀᴅ ɢᴇɴᴇʀᴀᴛᴏʀ</b>
 
@@ -480,7 +479,7 @@ NOTE:
     GROUP_TXT = """
 <b>๏ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ ᴛᴏ ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ɢᴇᴛ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴜs.
 
-ɪғ ʏᴏᴜ ғᴏᴜɴᴅ ᴀɴʏ ʙᴜɢ ɪɴ ˹𝐋ᴜᴄʏ˼ ᴏʀ ɪғ ʏᴏᴜ ᴡᴀɴɴᴀ ɢɪᴠᴇ ғᴇᴇᴅʙᴀᴄᴋ ᴀʙᴏᴜᴛ ᴛʜᴇ ʙᴏᴛ˼, ᴩʟᴇᴀsᴇ ʀᴇᴩᴏʀᴛ ɪᴛ ᴀᴛ <a href='https://t.me/+DnmZbLjS0iw0YWI1'>sᴜᴩᴩᴏʀᴛ ᴄʜᴀᴛ</a>.</b>"""
+ɪғ ʏᴏᴜ ғᴏᴜɴᴅ ᴀɴʏ ʙᴜɢ ɪɴ 𝐃𝐄𝐕𝐈𝐋 𝐌𝐎𝐕𝐈𝐄𝐒 𝟐.𝐎 ᴏʀ ɪғ ʏᴏᴜ ᴡᴀɴɴᴀ ɢɪᴠᴇ ғᴇᴇᴅʙᴀᴄᴋ ᴀʙᴏᴜᴛ ᴛʜᴇ ʙᴏᴛ˼, ᴩʟᴇᴀsᴇ ʀᴇᴩᴏʀᴛ ɪᴛ ᴀᴛ <a href='https://t.me/pwlived'>sᴜᴩᴩᴏʀᴛ ᴄʜᴀᴛ</a>.</b>"""
 
     PURGE_TXT = """<b>ᴘᴜʀɢᴇ
     
@@ -531,16 +530,7 @@ sᴀᴀᴠɴ sᴏɴɢs ᴄᴏᴍᴍᴀɴᴅ
 /𝐩𝐢𝐧𝐠 𝐁𝐨𝐭 𝐒𝐩𝐞𝐞𝐝 𝐓𝐞𝐬𝐭
 """
 
-    REPO = """<b>ʀᴇᴘᴏ ᴅᴇᴛᴀɪʟs -</b>
-
-ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ɢɪᴛʜᴜʙ's ʀᴇᴘᴏ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴘ ᴏғ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ.
-
-❍ /repo : search any repo
-❍ /allrepo : get all repo
-
-ᴜsᴇ ᴛʜɪs ꜰᴏʀᴍᴀᴛ 👇
-
-ᴇxᴀᴍᴘʟᴇ ;- <code>/repo/allrepo codeflix-bots</code>"""
+    REPO = """<b>ʀᴇᴘᴏ ᴅᴇᴛᴀɪʟs -</b>Tʜɪs Rᴇᴘᴏ Is Eᴅɪᴛᴇᴅ Bʏ 𓆩•𝐊𝐢𝐬𝐬𝐮 💞•𓆪 Aɴᴅ I Aᴍ Nᴏᴛ Iɴᴛᴇʀsᴛᴇᴅ Sᴇʟʟɪɴɢ Oʀ Dɪsᴛʀɪʙᴜᴛɪᴏɴ Oғ Rᴇᴘᴏsɪᴛᴏʀʏ. Tʜᴀɴᴋs Fᴏʀ Yᴏᴜʀ Cᴏ-ᴏᴘᴇʀᴀᴛɪᴏɴ"""
 
     SHORTNER = """<b>ᴜʀʟ sʜᴏʀᴛɴᴇʀ</b>
 
@@ -839,7 +829,7 @@ Example:
 """
 
     SUPPORT_TXT = """ᴛʜᴇsᴇ ᴀʀᴇ ᴍʏ sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ɢʀᴏᴜᴘ. ɪғ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ, ʀᴇᴘᴏʀᴛ ᴛᴏ ᴛʜᴇ ᴀᴅᴍɪɴ
-ᴘᴏᴡᴇʀᴇᴅ ʙʏ - @codeflix_bots"""
+ᴘᴏᴡᴇʀᴇᴅ ʙʏ - @kissuxbots"""
 
     PAGE_TXT = """ᴡʜʏ ᴀʀᴇ ʏᴏᴜ ꜱᴏ ᴄᴜʀɪᴏᴜꜱ ⁉️"""
 
@@ -855,8 +845,8 @@ Example:
 ● <code>250₹</code> ➛ <u>ᴘʟᴀᴛɪɴᴜᴍ ᴘʟᴀɴ</u> » <code>180 ᴅᴀʏꜱ</code>
 ● <code>400₹</code> ➛ <u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u> » <code>365 ᴅᴀʏꜱ</code>
 
-💵 ᴜᴘɪ ɪᴅ - <code>dm - @sewxiy</code>
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://graph.org/file/02e7ecc3e2693b481b914.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+💵 ᴜᴘɪ ɪᴅ - <code>dm - @xaekks</code>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://t.me/xaekks'>Dᴍ Tᴏ Gᴇᴛ QR Cᴏᴅᴇ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
 
@@ -873,7 +863,7 @@ Example:
 ● <code>400₹</code> ➛ <u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u> » <code>365 ᴅᴀʏꜱ</code>
 
 💵 ᴜᴘɪ ɪᴅ - <code>dm - @sewxiy</code>
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://graph.org/file/02e7ecc3e2693b481b914.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://t.me/xaekks'>Dᴍ Tᴏ Gᴇᴛ QR Cᴏᴅᴇ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
 
@@ -906,7 +896,7 @@ Example:
 ○ ᴍᴜʟᴛɪ-ᴘʟᴀʏᴇʀ sᴛʀᴇᴀᴍɪɴɢ ʟɪɴᴋs
 ○ ᴀᴅ-ғʀᴇᴇ ᴇxᴘᴇʀɪᴇɴᴄᴇ
 
-👨‍💻 ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ <a href='https://t.me/sewxiy'>ᴏᴡɴᴇʀ</a> ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ᴛʀɪᴀʟ.
+👨‍💻 ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ <a href='https://t.me/xaekks'>ᴏᴡɴᴇʀ</a> ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ᴛʀɪᴀʟ.
 
 ➛ ᴜꜱᴇ /plan ᴛᴏ ꜱᴇᴇ ᴀʟʟ ᴏᴜʀ ᴘʟᴀɴꜱ ᴀᴛ ᴏɴᴄᴇ.
 ➛ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan</b>"""
@@ -962,7 +952,7 @@ Example:
 ⏰ ᴄᴜꜱᴛᴏᴍɪꜱᴇᴅ ᴅᴀʏꜱ
 💸 ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ᴅᴀʏꜱ ʏᴏᴜ ᴄʜᴏᴏꜱᴇ
 
-🏆 ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴀ ɴᴇᴡ ᴘʟᴀɴ ᴀᴘᴀʀᴛ ꜰʀᴏᴍ ᴛʜᴇ ɢɪᴠᴇɴ ᴘʟᴀɴ, ᴛʜᴇɴ ʏᴏᴜ ᴄᴀɴ ᴛᴀʟᴋ ᴛᴏ ᴏᴜʀ <a href='https://t.me/sewxiy'>ᴏᴡɴᴇʀ</a> ᴅɪʀᴇᴄᴛʟʏ ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴏɴ ᴛʜᴇ ᴄᴏɴᴛᴀᴄᴛ ʙᴜᴛᴛᴏɴ ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.
+🏆 ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴀ ɴᴇᴡ ᴘʟᴀɴ ᴀᴘᴀʀᴛ ꜰʀᴏᴍ ᴛʜᴇ ɢɪᴠᴇɴ ᴘʟᴀɴ, ᴛʜᴇɴ ʏᴏᴜ ᴄᴀɴ ᴛᴀʟᴋ ᴛᴏ ᴏᴜʀ <a href='https://t.me/xaekks'>ᴏᴡɴᴇʀ</a> ᴅɪʀᴇᴄᴛʟʏ ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴏɴ ᴛʜᴇ ᴄᴏɴᴛᴀᴄᴛ ʙᴜᴛᴛᴏɴ ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.
     
 👨‍💻 ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ ᴏᴡɴᴇʀ ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ᴏᴛʜᴇʀ ᴘʟᴀɴ.
 
@@ -973,7 +963,7 @@ Example:
     
 ⚜️ ᴘᴀʏ ᴀᴍᴍᴏᴜɴᴛ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ᴘʟᴀɴ ᴀɴᴅ ᴇɴᴊᴏʏ ᴘʀᴇᴍɪᴜᴍ ᴍᴇᴍʙᴇʀꜱʜɪᴘ !
 
-💵 ᴜᴘɪ ɪᴅ - <code>dm - @sewxiy</code>
+💵 ᴜᴘɪ ɪᴅ - <code>dm - @xaekks</code>
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.</b>"""
 
@@ -981,7 +971,7 @@ Example:
     
 ⚜️ ᴘᴀʏ ᴀᴍᴍᴏᴜɴᴛ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ᴘʟᴀɴ ᴀɴᴅ ᴇɴᴊᴏʏ ᴘʀᴇᴍɪᴜᴍ ᴍᴇᴍʙᴇʀꜱʜɪᴘ !
 
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://graph.org/file/02e7ecc3e2693b481b914.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://t.me/xaekks'>Dᴍ Tᴏ Gᴇᴛ QR Cᴏᴅᴇ</a>
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.</b>"""
 
@@ -995,8 +985,8 @@ Example:
 ● <code>250₹</code> ➛ <u>ᴘʟᴀᴛɪɴᴜᴍ ᴘʟᴀɴ</u> » <code>180 ᴅᴀʏꜱ</code>
 ● <code>400₹</code> ➛ <u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u> » <code>365 ᴅᴀʏꜱ</code>
 
-💵 ᴜᴘɪ ɪᴅ - <code>dm - @sewxiy</code>
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://graph.org/file/02e7ecc3e2693b481b914.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+💵 ᴜᴘɪ ɪᴅ - <code>dm - @xaekks</code>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://t.me/xaekks'>Dᴍ Tᴏ Gᴇᴛ QR Cᴏᴅᴇ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
 
@@ -1017,13 +1007,5 @@ Uꜱᴇʀ Sᴛᴀᴛᴜꜱ : Vᴇʀɪғɪᴇᴅ</b>
 """
 
     LOGO = """ BOT DEPLOYED BY @CODEFLIX_BOTS"""
-
-# dont remove logo
-
-#- ᴄʀᴇᴅɪᴛ - Github - @Codeflix-bots , @erotixe
-#- ᴘʟᴇᴀsᴇ ᴅᴏɴ'ᴛ ʀᴇᴍᴏᴠᴇ ᴄʀᴇᴅɪᴛ..
-#- ᴛʜᴀɴᴋ ʏᴏᴜ ᴄᴏᴅᴇғʟɪx ʙᴏᴛs ғᴏʀ ʜᴇʟᴘɪɴɢ ᴜs ɪɴ ᴛʜɪs ᴊᴏᴜʀɴᴇʏ 
-#- ᴛʜᴀɴᴋ ʏᴏᴜ ғᴏʀ ɢɪᴠɪɴɢ ᴍᴇ ᴄʀᴇᴅɪᴛ @Codeflix-bots  
-#- ғᴏʀ ᴀɴʏ ᴇʀʀᴏʀ ᴘʟᴇᴀsᴇ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ -> ᴛᴇʟᴇɢʀᴀᴍ @codeflix_bots Community @Otakflix_Network </b>
 
 

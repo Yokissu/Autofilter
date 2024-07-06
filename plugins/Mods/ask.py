@@ -71,17 +71,9 @@ async def ai_generate(client, message):
 @Client.on_message(filters.command("ask") & filters.private)
 async def ai_generate_private(client, message):
   buttons = [[
-    InlineKeyboardButton("ᴜsᴇ ɪɴ ɢʀᴏᴜᴘ", url="https://t.me/weebs_support")
+    InlineKeyboardButton("ᴜsᴇ ɪɴ ɢʀᴏᴜᴘ", url="https://t.me/kissuXbots")
   ]]
   reply_markup = InlineKeyboardMarkup(buttons)
   await message.reply_sticker("CAACAgUAAxkBAAEBVPFlqURKlcRL5gwsCr_95NUy1yomWAACbQgAAqkDGFZZit7uxEySIh4E")
   await message.reply_text(text=f"ʜᴇʏ {message.from_user.mention}\n\n» ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs ꜰᴏʀ  ɢᴏᴏɢʟᴇ ᴀɪ :\n\n ɢᴏᴏɢʟᴇ ᴀɪ ᴄᴀɴ ᴀɴsᴡᴇʀ ʏᴏᴜʀ ǫᴜᴇsᴛɪᴏɴ ᴀɴᴅ sʜᴏᴡs ʏᴏᴜ ᴛʜᴇ ʀᴇsᴜʟᴛ\n\n ᴜsᴇ ᴛʜɪs ғᴇᴀᴛᴜʀᴇ ɪɴ ɢʀᴏᴜᴘ", reply_markup=reply_markup)
-
-
-
-#- ᴄʀᴇᴅɪᴛ - Github - @Codeflix-bots , @erotixe, @sd_bots
-#- ᴘʟᴇᴀsᴇ ᴅᴏɴ'ᴛ ʀᴇᴍᴏᴠᴇ ᴄʀᴇᴅɪᴛ..
-#- ᴛʜᴀɴᴋ ʏᴏᴜ ᴄᴏᴅᴇғʟɪx ʙᴏᴛs ғᴏʀ ʜᴇʟᴘɪɴɢ ᴜs ɪɴ ᴛʜɪs ᴊᴏᴜʀɴᴇʏ 
-#- ᴛʜᴀɴᴋ ʏᴏᴜ ғᴏʀ ɢɪᴠɪɴɢ ᴍᴇ ᴄʀᴇᴅɪᴛ @Codeflix-bots  
-#- ғᴏʀ ᴀɴʏ ᴇʀʀᴏʀ ᴘʟᴇᴀsᴇ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ -> ᴛᴇʟᴇɢʀᴀᴍ @codeflix_bots Community @Otakflix_Network </b>
 

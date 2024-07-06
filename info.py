@@ -24,8 +24,8 @@ def is_enabled(value, default):
 
 # Bot information
 SESSION = environ.get('SESSION', 'Media_search')
-API_ID = int(environ.get('API_ID', '238962'))
-API_HASH = environ.get('API_HASH', 'da7e86cf57b0e6220b8a9e0aed228')
+API_ID = int(environ.get('API_ID', '25062453'))
+API_HASH = environ.get('API_HASH', 'ccf735bb7d834b95ec85657c604cb49f')
 OWNER_ID = environ.get('OWNER_ID', '7360250325')
 BOT_TOKEN = environ.get('BOT_TOKEN', "")
 
@@ -36,11 +36,11 @@ EVAL_ID = environ.get("EVAL_ID", "-1001566837125")
 CACHE_TIME = int(environ.get('CACHE_TIME', 99999))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
-PICS = (environ.get('PICS', 'https://graph.org/file/0a88fe4e267035bc77e88.jpg https://graph.org/file/716f2c7aef3ebc4049666.jpg https://graph.org/file/ada3dbc9c7ec0f975a5d8.jpg https://graph.org/file/f7bc09531f6f3c0e2a595.jpg https://graph.org/file/0a55de10d0ae5fb2f516f.jpg https://graph.org/file/596fd4de016865b864164.jpg https://graph.org/file/2205007d094c9b28d39dd.jpg https://graph.org/file/1fc023ae0e8bb6b61cff0.jpg https://graph.org/file/d4f60834f4b836230c4d0.jpg https://graph.org/file/6c917ac3502cd37a5030b.jpg https://graph.org/file/ddef5154e8a7753a92b8e.jpg https://graph.org/file/bf634e576530322140504.jpg https://graph.org/file/1281fab3aea387b207716.jpg')).split()
-NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/41a08d01363c18ca909f1.jpg")
-SRC_IMG = environ.get("SRC_IMG", "https://graph.org/file/769aee62c9fbfd58fe7c0.jpg")
-MELCOW_VID = environ.get("MELCOW_VID", "https://graph.org/file/716f2c7aef3ebc4049666.jpg")
-SPELL_IMG = environ.get("SPELL_IMG", "https://te.legra.ph/file/15c1ad448dfe472a5cbb8.jpg")
+PICS = (environ.get('PICS', 'https://telegra.ph/file/9bee6ab7cc9c07c8a66ef.jpg https://telegra.ph/file/c6636c72187f9019cb705.jpg https://telegra.ph/file/842bc77f399c2d078927e.jpg https://telegra.ph/file/ad7ecdcca3c21923b49ac.jpg')).split()
+NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/9693286b81c0aeedaa7b8.jpg")
+SRC_IMG = environ.get("SRC_IMG", "https://telegra.ph/file/a20f3955ce24a04d9c2e8.jpg")
+MELCOW_VID = environ.get("MELCOW_VID", "https://telegra.ph/file/c6636c72187f9019cb705.jpg")
+SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/9693286b81c0aeedaa7b8.jpg")
 VRFIED_IMG = environ.get("VRFIED_IMG", "https://graph.org/file/c9b2b779d44668f61f770.jpg")
 VRFY_IMG = environ.get("VRFY_IMG", "https://graph.org/file/81a02333bdcb58f891785.jpg")
 SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://graph.org/file/2f7d2f1c5fabc7c29b8f3.jpg'))
@@ -48,7 +48,7 @@ SP = (environ.get('SP', 'https://graph.org/file/a0c2ab09ea6d665deb174.jpg https:
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '7360250325').split()]
-CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '').split()]
+CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002205552282 -1002216874688 -1002153836747 -1002100267327').split()]
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
 PREMIUM_USER = [int(user) if id_pattern.search(user) else user for user in environ.get('PREMIUM_USER', '').split()]
@@ -69,7 +69,7 @@ COMMAND_HAND_LER = environ.get("COMMAND_HAND_LER", "/")
 PREFIX = environ.get("PREFIX", "/")
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://rkissu123456:kissu@cluster0.vzhox3z.mongodb.net/?retryWrites=true&w=majority")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://Yousay:Yousay@cluster0.n8rdztl.mongodb.net/?retryWrites=true&w=majority")
 DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
@@ -99,9 +99,9 @@ MAX_B_TN = environ.get("MAX_B_TN", "10")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
 PORT = environ.get("PORT", "8080")
 RemoveBG_API = environ.get("RemoveBG_API", "BBfqJQTBznNFqg4R7VESNW46")
-BOT_USERNAME = environ.get("BOT_USERNAME", "primoviesbot")
-BOT_NAME = environ.get("BOT_NAME", "𝐋ᴜᴄʏ")
-BOT_ID = environ.get("BOT_ID", "6442206050")
+BOT_USERNAME = environ.get("BOT_USERNAME", "kissu_movies_bot")
+BOT_NAME = environ.get("BOT_NAME", "𝐃𝐄𝐕𝐈𝐋 𝐌𝐎𝐕𝐈𝐄𝐒 𝟐.𝐎")
+BOT_ID = environ.get("BOT_ID", "6654719045")
 S_GROUP = environ.get('S_GROUP', "pwlived")
 S_CHANNEL = environ.get('S_CHANNEL', "codeflix_bots")
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/ur_movie_group')

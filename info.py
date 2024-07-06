@@ -33,7 +33,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "")
 EVAL_ID = environ.get("EVAL_ID", "-1001566837125")
 
 # Bot settings
-CACHE_TIME = int(environ.get('CACHE_TIME', 99999))
+CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
 PICS = (environ.get('PICS', 'https://telegra.ph/file/9bee6ab7cc9c07c8a66ef.jpg https://telegra.ph/file/c6636c72187f9019cb705.jpg https://telegra.ph/file/842bc77f399c2d078927e.jpg https://telegra.ph/file/ad7ecdcca3c21923b49ac.jpg')).split()
@@ -111,7 +111,7 @@ IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 MSG_ALRT = environ.get('MSG_ALRT', 'ᴘᴏᴡᴇʀᴇᴅ ʙʏ 「𓆩•𝐊𝐢𝐬𝐬𝐮💞•𓆪」')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002183739017'))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'pwlived')
-P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
+P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), False)
 IMDB = is_enabled((environ.get('IMDB', "False")), True)
 AUTO_FFILTER = is_enabled((environ.get('AUTO_FFILTER', "True")), True)
 AUTO_DELETE = is_enabled((environ.get('AUTO_DELETE', "True")), True)

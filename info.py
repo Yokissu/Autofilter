@@ -47,7 +47,7 @@ SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://graph.org/file/2f7d2f1c5fab
 SP = (environ.get('SP', 'https://graph.org/file/a0c2ab09ea6d665deb174.jpg https://graph.org/file/769aee62c9fbfd58fe7c0.jpg')).split()
 
 # Admins, Channels & Users
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '7360250325 6670354006').split()]
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6670354006').split()]
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002205552282 -1002216874688 -1002153836747 -1002100267327').split()]
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
@@ -103,7 +103,7 @@ BOT_USERNAME = environ.get("BOT_USERNAME", "kissu_movies_bot")
 BOT_NAME = environ.get("BOT_NAME", "𝐃𝐄𝐕𝐈𝐋 𝐌𝐎𝐕𝐈𝐄𝐒 𝟐.𝐎")
 BOT_ID = environ.get("BOT_ID", "6654719045")
 S_GROUP = environ.get('S_GROUP', "pwlived")
-S_CHANNEL = environ.get('S_CHANNEL', "codeflix_bots")
+S_CHANNEL = environ.get('S_CHANNEL', "kissuXbots")
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/ur_movie_group')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/kissuXbots')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/howtoverifybot')

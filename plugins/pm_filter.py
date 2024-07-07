@@ -46,7 +46,8 @@ SPELL_CHECK = {}
 FILTER_MODE = {}
 # ENABLE_SHORTLINK = ""
 
-@Client.on_message(filters.group | filters.text & filters.incoming)async def fil_mod(client, message):
+@Client.on_message(filters.group | filters.private & filters.text & filters.incoming)
+async def fil_mod(client, message):
     mode_on = ["yes", "on", "true"]
     mode_of = ["no", "off", "false"]
 

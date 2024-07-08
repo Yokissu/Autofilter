@@ -1,4 +1,3 @@
-
 import asyncio
 import re
 import ast
@@ -46,7 +45,7 @@ SPELL_CHECK = {}
 FILTER_MODE = {}
 # ENABLE_SHORTLINK = ""
 
-@Client.on_message(filters.group | filters.private & filters.text & filters.incoming)
+@Client.on_message(filters.group | filters.text & filters.incoming)
 async def fil_mod(client, message):
     mode_on = ["yes", "on", "true"]
     mode_of = ["no", "off", "false"]
@@ -69,7 +68,7 @@ async def fil_mod(client, message):
         await m.edit("ᴜsᴇ :- /autofilter on ᴏʀ /autofilter off")
 
 
-@Client.on_message(filters.group | filters.private & filters.text & filters.incoming)
+@Client.on_message(filters.group | filters.text & filters.incoming)
 async def give_filter(client, message):
     await global_filters(client, message)
     group_id = message.chat.id
@@ -149,7 +148,7 @@ async def give_filter(client, message):
                     )
                 )
                                                                       
-@Client.on_message(filters.private & filters.text & filters.incoming)
+@Client.on_message(filters.group | filters.text & filters.incoming)
 async def pm_text(bot, message):
     content = message.text
     user = message.from_user.first_name

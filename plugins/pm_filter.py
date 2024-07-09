@@ -45,7 +45,7 @@ SPELL_CHECK = {}
 FILTER_MODE = {}
 # ENABLE_SHORTLINK = ""
 
-@Client.on_message(filters.group | filters.text & filters.incoming)
+@Client.on_message(filters.command('autofilter') & filters.user(ADMINS))
 async def fil_mod(client, message):
     mode_on = ["yes", "on", "true"]
     mode_of = ["no", "off", "false"]
@@ -68,7 +68,7 @@ async def fil_mod(client, message):
         await m.edit("ᴜsᴇ :- /autofilter on ᴏʀ /autofilter off")
 
 
-@Client.on_message(filters.group | filters.text & filters.incoming)
+@Client.on_message(filters.command('autofilter') & filters.user(ADMINS))
 async def give_filter(client, message):
     await global_filters(client, message)
     group_id = message.chat.id
